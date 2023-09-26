@@ -1,0 +1,76 @@
+body {
+    background: linear-gradient(to left, rgba(248, 245, 245, 0.932), rgba(0,0,255,1));
+}
+
+#bgdiv {
+    background-color: grey;
+    height:550px;
+    width:800px;
+    position:absolute;
+    top:50px;
+    right:450px;
+    bottom:50px;
+    left:300px;
+}
+
+#bgdiv1 {
+    background-color: whitesmoke;
+    border-radius: 280px;
+    height:450px;
+    width: 750px;
+    position: relative;
+    top:70px;
+    right:20px;
+    bottom:100px;
+    left:25px;
+}
+
+#div1 {
+    background-color: #F65214;
+    border: 1px solid #F65214;
+    height: 80px;
+    width: 100px;
+    position: relative;
+    top: 135px;
+    right: 40px;
+    bottom: 100px;
+    left: 120px;
+   
+  }
+
+#div2 {
+    background-color: #00a1f1;
+    border: 1px solid #00a1f1;
+    height:80px;
+    width: 100px;
+    position :relative;
+    top:142px;
+    right:10px;
+    bottom: 100px;
+    left:120px;
+    
+}
+
+#div3 {
+    background-color: #7CBB00;
+    border: 1px solid #7CBB00;
+    height:80px;
+    width: 100px;
+    position :absolute;
+    top:135px;
+    right:10px;
+    bottom: 100px;
+    left:230px;
+}
+
+#div4 {
+    background-color: #FFBB00;
+    border: 1px solid #FFBB00;
+    height: 80px;
+    width: 100px;
+    position: relative;
+    top: 60px;
+    right: 10px;
+    bottom: 100px;
+    left: 230px;
+}
