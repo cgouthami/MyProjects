@@ -1,0 +1,27 @@
+.selectitem {
+    width: 60%;
+    height: 50%;
+    border: 5px solid black;
+    border-radius: 100px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-left: 20%;
+    flex-direction: column;
+}
+
+#amount_item{
+    display: flex;
+    align-items: end;
+    margin-top: -170px;
+    justify-content: end;
+}
+
+.item_count_1{
+    display: flex;
+    align-items: end;
+    margin-top: -40px;
+    justify-content: end;
+    position: absolute;
+    right: 10px;
+}

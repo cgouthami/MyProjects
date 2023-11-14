@@ -1,0 +1,33 @@
+.logo{
+    width: 80px;
+    height: 60px;
+    border: 5px solid orange;
+    border-radius: 500px;
+    background-color:black;
+    color: orange;
+    font-family: cursive;
+    text-align: center;
+    justify-content: space-evenly;
+    margin: 5px 5px 5px 5px;
+    display: flex;
+    align-items: center;
+    display: inline-block;   
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 30px;
+    cursor: pointer;
+}
+
+.icon {
+    font-size: 50px;
+    font-family:cursive;
+    font-display:initial;
+    color: black;
+    cursor: pointer;
+}
+
+.icon:hover{
+    color: orange;
+    cursor: pointer;
+}
+

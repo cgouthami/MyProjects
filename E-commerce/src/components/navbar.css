@@ -1,0 +1,7 @@
+#nav{
+    text-decoration: none;
+    color: rgb(3, 3, 3);
+    }
+    #nav:hover{
+    border: 3px solid rgb(243, 238, 238);
+    }
